@@ -83,7 +83,6 @@ content:
           Leading Indian short video app with hundreds millions MAU.
         description: | # this will include new lines to allow paragraphs
           Leading feed ranking modeling efforts and continuing researching science about theoretical foundations of gradient boosting, diffusion processes, learning-to-rank. Managing team of Machine Learning Enginiers to bring state-of-the-art approaches to our recsys. Leading efforts on bringing modern A/B testing techniques.
-    content:
       - layout: right
         title: Yandex.Research
         sub_title: Research Scientist
@@ -92,7 +91,6 @@ content:
           Yandex -- Leading Russian Internal Company (Search Engine, Taxi, Marketplace, etc). Yandex.Research -- lab focused on research.
         description: | # this will include new lines to allow paragraphs
           Researching science about theoretical foundations of gradient boosting, diffusion processes, learning-to-rank. Consulting enginiering teams about how to apply my algorithms. Published 3 papers during my work there and 2 wrote 2 more papers that I've published later.
-  content:
       - layout: right
         title: Yandex.Market
         sub_title: Data Scientist
@@ -101,7 +99,6 @@ content:
           Largest Russian Marketplace (part of Yandex)
         description: | # this will include new lines to allow paragraphs
           Researching science about theoretical foundations of gradient boosting, diffusion processes, learning-to-rank. Consulting enginiering teams about how to apply my algorithms. Invented algorithm StochasticRank that I've published later during work at Research.
-  content:
       - layout: right
         title: Yandex.Research
         sub_title: Intern Research Scientist
