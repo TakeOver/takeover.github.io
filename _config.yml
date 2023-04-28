@@ -77,10 +77,10 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Andrey Malinin, Liudmila Prokhorenkiva, Aleksei Ustimenko
+#         quote: >
+#          
         description: | # this will include new lines to allow paragraphs
-          International Conference on Learning Representations
+           Andrey Malinin, Liudmila Prokhorenkiva, Aleksei Ustimenko; *ICLR 2021*
   - title: Experience
     layout: list
     content:
