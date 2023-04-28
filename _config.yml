@@ -64,10 +64,10 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: ICLR'21
+        title: Uncertainty in Gradient Boosting via Ensembles
         link: https://arxiv.org/pdf/2006.10562
         link_text: arxiv
 #         additional_links:
@@ -80,7 +80,7 @@ content:
         quote: >
           Andrey Malinin, Liudmila Prokhorenkiva, Aleksei Ustimenko
         description: | # this will include new lines to allow paragraphs
-          Uncertainty in Gradient Boosting via Ensembles
+          International Conference on Learning Representations
   - title: Experience
     layout: list
     content:
