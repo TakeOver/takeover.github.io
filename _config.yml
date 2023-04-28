@@ -18,7 +18,7 @@ website: aleksei.uk/me
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: iseethefall
 github_username:  takeover
 instagram_username: imwhatusee
 linkedin_username: aleksei-u-118848a6
@@ -64,7 +64,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: text
+      - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Uncertainty in Gradient Boosting via Ensembles
