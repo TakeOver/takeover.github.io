@@ -24,15 +24,6 @@ instagram_username: imwhatusee
 linkedin_username: aleksei-u-118848a6
 googlescholar_username: OES5pK4AAAAJ
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -41,15 +32,21 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ I'm mathematician that works on industry problems related to A/B testing, RecSys and AI/ML in general.
+ List of my contrtibutions:
+ -- 6 conference publications (ICML, ICLR)
+ -- 2 journal publications
+ -- 4 patents
+ -- 91 citations with h-index 5
+ -- Contributor to open-source library CatBoost
+ Topics of research that I do:
+ -- Learning-to-Rank (author of two state-of-the-art algorithms StochasticRank, YetiLoss)
+ -- Diffusion processes (including simulating quantum mechanics, general theory of convergence of markov chains to diffusion processes, non-convex optimization using Langevin diffusion)
+ -- Gradient Boosting (convergence and generalization in RKHS, non-convex optimization)
+ -- Uncertainty estimation (bayesian, gaussian processes using gradient boosting)
+ -- Non-convex optimization (for recsys)
 
 content:
   - title: Projects # Title for the section
