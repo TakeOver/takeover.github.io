@@ -35,17 +35,29 @@ googlescholar_username: OES5pK4AAAAJ
 about_profile_image: images/IMG_5219.PNG
 about_content: | # this will include new lines to allow paragraphs
  I'm mathematician that works on industry problems related to A/B testing, RecSys and AI/ML in general.
+ 
  List of my contrtibutions:
+ 
  -- 6 conference publications (ICML, ICLR)
+ 
  -- 2 journal publications
+ 
  -- 4 patents
+ 
  -- 91 citations with h-index 5
+ 
  -- Contributor to open-source library CatBoost
+ 
  Topics of research that I do:
+ 
  -- Learning-to-Rank (author of two state-of-the-art algorithms StochasticRank, YetiLoss)
+ 
  -- Diffusion processes (including simulating quantum mechanics, general theory of convergence of markov chains to diffusion processes, non-convex optimization using Langevin diffusion)
+ 
  -- Gradient Boosting (convergence and generalization in RKHS, non-convex optimization)
+ 
  -- Uncertainty estimation (bayesian, gaussian processes using gradient boosting)
+ 
  -- Non-convex optimization (for recsys)
 
 content:
