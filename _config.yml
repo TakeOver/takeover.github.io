@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Uncertainty in Gradient Boosting via Ensembles
+        title: ICLR'21
         link: https://arxiv.org/pdf/2006.10562
         link_text: arxiv
 #         additional_links:
@@ -78,9 +78,9 @@ content:
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          International Conference on Learning Representations 2021
+          Andrey Malinin, Liudmila Prokhorenkiva, Aleksei Ustimenko
         description: | # this will include new lines to allow paragraphs
-          For many practical, high-risk applications, it is essential to quantify uncertainty in a model's predictions to avoid costly mistakes. While predictive uncertainty is widely studied for neural networks, the topic seems to be under-explored for models based on gradient boosting. However, gradient boosting often achieves state-of-the-art results on tabular data. This work examines a probabilistic ensemble-based framework for deriving uncertainty estimates in the predictions of gradient boosting classification and regression models. We conducted experiments on a range of synthetic and real datasets and investigated the applicability of ensemble approaches to gradient boosting models that are themselves ensembles of decision trees. Our analysis shows that ensembles of gradient boosting models successfully detect anomalous inputs while having limited ability to improve the predicted total uncertainty. Importantly, we also propose a concept of a virtual ensemble to get the benefits of an ensemble via only one gradient boosting model, which significantly reduces complexity.
+          Uncertainty in Gradient Boosting via Ensembles
   - title: Experience
     layout: list
     content:
